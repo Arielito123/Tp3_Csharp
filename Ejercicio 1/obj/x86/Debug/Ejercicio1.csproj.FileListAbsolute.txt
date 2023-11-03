@@ -1,0 +1,6 @@
+/home/nicolas/c#/TP 3/Ejercicio1/obj/x86/Debug/Ejercicio1.csprojAssemblyReference.cache
+/home/nicolas/c#/TP 3/Ejercicio1/obj/x86/Debug/Ejercicio1.csproj.CoreCompileInputs.cache
+/home/nicolas/c#/TP 3/Ejercicio1/bin/Debug/Ejercicio1.exe
+/home/nicolas/c#/TP 3/Ejercicio1/bin/Debug/Ejercicio1.pdb
+/home/nicolas/c#/TP 3/Ejercicio1/obj/x86/Debug/Ejercicio1.exe
+/home/nicolas/c#/TP 3/Ejercicio1/obj/x86/Debug/Ejercicio1.pdb
